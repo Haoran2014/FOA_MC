@@ -7,10 +7,10 @@ Cite "Fast optimization algorithm on Riemannian manifolds and Its application in
 
 Please lso provide a direct link to this webpage somewhere in your paper (https://github.com/Haoran2014/FOA_MC)
 
-@ARTICLE{ChenSunGaoHu2015,\\
-  author = {H. Chen and Y. Sun and J. Gao and Y. Hu},\\
-  title = {Fast optimization algorithm on {R}iemannian manifolds and Its application in low-rank Learning},\\
-  journal = {arXiv preprint arXiv:1512.01927},\\
+@ARTICLE{ChenSunGaoHu2015,
+  author = {H. Chen and Y. Sun and J. Gao and Y. Hu},
+  title = {Fast optimization algorithm on {R}iemannian manifolds and Its application in low-rank Learning},
+  journal = {arXiv preprint arXiv:1512.01927},
   year = {2015},
 }
 
