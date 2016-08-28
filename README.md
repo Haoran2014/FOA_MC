@@ -12,7 +12,7 @@ Please lso provide a direct link to this webpage somewhere in your paper (https:
   title = {Fast optimization algorithm on {R}iemannian manifolds and Its application in low-rank Learning},
   journal = {arXiv preprint arXiv:1512.01927},
   year = {2015},
-}
+  }
 
 
 
