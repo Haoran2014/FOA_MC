@@ -1,2 +1,27 @@
 # FOA_MC
-Fast Optimization Algorithm for Matrix Completion
+MATLAB implementations of matrix completion
+
+## Citing
+
+Cite "Fast optimization algorithm on Riemannian manifolds and Its application in low-rank Learning" by Haoran Chen, Yanfeng Sun, Junbin Gao and Yongli Hu.
+
+Please lso provide a direct link to this webpage somewhere in your paper (https://github.com/Haoran2014/FOA_MC)
+
+@ARTICLE{ChenSunGaoHu2015,
+  author = {H. Chen and Y. Sun and J. Gao and Y. Hu},
+  title = {Fast optimization algorithm on {R}iemannian manifolds and Its application in low-rank Learning},
+  journal = {arXiv preprint arXiv:1512.01927},
+  year = {2015},
+}
+
+
+
+## Acknowledgement
+
+ The research project is supported by the Australian Research Council (ARC) through the grant DP140102270 and also partially supported by National Natural Science Foundation of China under Grant No. 61390510, 61133003, 61370119, 61171169 and 61227004.
+
+## Included Libraries
+
+- [Low-rank matrix completion][1]
+
+[1]: http://www.unige.ch/math/vandereycken/matrix_completion.html
